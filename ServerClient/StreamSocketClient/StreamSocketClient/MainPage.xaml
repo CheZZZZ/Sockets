@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="StreamSocketClient.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StreamSocketClient"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Padding="30">
+        <TextBlock x:Name="txtResult"></TextBlock>
+        <Button x:Name="btnConnect" Click="btnConnect_Click" Content="connect"></Button>
+        <Button x:Name="Receive" Click="Receive_Click" Content=" Receive data"></Button>
+    </StackPanel>
+</Page>

@@ -1,0 +1,5 @@
+E:\Special Topic\Sockets\ServerClient\TcpServer\UdpServer\bin\Debug\UdpServer.exe.config
+E:\Special Topic\Sockets\ServerClient\TcpServer\UdpServer\bin\Debug\UdpServer.exe
+E:\Special Topic\Sockets\ServerClient\TcpServer\UdpServer\bin\Debug\UdpServer.pdb
+E:\Special Topic\Sockets\ServerClient\TcpServer\UdpServer\obj\Debug\UdpServer.exe
+E:\Special Topic\Sockets\ServerClient\TcpServer\UdpServer\obj\Debug\UdpServer.pdb

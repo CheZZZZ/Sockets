@@ -1,0 +1,6 @@
+E:\Special Topic\Sockets\ServerClient\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+E:\Special Topic\Sockets\ServerClient\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+E:\Special Topic\Sockets\ServerClient\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+E:\Special Topic\Sockets\ServerClient\TcpServer\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+E:\Special Topic\Sockets\ServerClient\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+E:\Special Topic\Sockets\ServerClient\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
